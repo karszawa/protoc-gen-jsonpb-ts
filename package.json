@@ -23,7 +23,7 @@
     "@types/ejs": "2.6.3",
     "@types/google-protobuf": "3.7.2",
     "@types/node": "10.14.19",
-    "@types/prettier": "1.18.2",
+    "@types/prettier": "1.19.0",
     "typescript": "3.7.2"
   },
   "dependencies": {
